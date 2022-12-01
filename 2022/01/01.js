@@ -11,10 +11,11 @@ const input = data
         }, 0)
     );
 
+console.log(`1: ${Math.max(...input)}`);
 let total = 0;
 for (let i = 0; i < 3; i++) {
     const max = Math.max(...input);
     input.splice(input.indexOf(max), 1);
     total += max;
 }
-console.log(total);
+console.log(`2: ${total}`);
