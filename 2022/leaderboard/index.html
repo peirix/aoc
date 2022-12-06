@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>AOC Leaderboard</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+    </head>
+    <body>
+        <ul x-data="list" class="m-auto w-1/2 pt-20">
+            <template x-for="(p,i) in people" :key="p.id">
+                <li>
+                    <div class="flex" @click="open = open === i ? -1 : i">
+                        <span x-html="`${p.local_score}:`" class="w-12"></span>
+                        <span x-html="p.name"></span>
+                    </div>
+                    <div x-show="open === i">
+                        <template x-for="(day, j) in p.completion_day_level">
+                            <div class="flex">
+                                <div class="w-12" x-html="j"></div>
+                                <template x-for="(star, k) in day">
+                                    <div class="w-1/2">
+                                        <span x-html="k"></span>
+                                        <span x-html="prettyDate(star.get_star_ts)"></span>
+                                    </div>
+                                </template>
+                            </div>
+                        </template>
+                    </div>
+                </li>
+            </template>
+        </ul>
+        <script>
+            document.addEventListener('alpine:init', () => {
+                Alpine.data('list', () => ({
+                    people: [],
+                    open: -1,
+                    init() {
+                        fetch('server.php')
+                            .then(res => res.json())
+                            .then(res => {
+                                this.people = Object.values(res.members).sort((a, b) => {
+                                    return a.local_score > b.local_score ? -1 : 1;
+                                });
+                                console.log(this.people);
+                            });
+                    },
+                    prettyDate(val) {
+                        return moment(val * 1000).format('DD.MM HH:mm');
+                    }
+                }));
+            });
+        </script>
+    </body>
+</html>
