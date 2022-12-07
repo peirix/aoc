@@ -23,7 +23,7 @@
                                 <div class="w-12" x-html="j"></div>
                                 <template x-for="(star, k) in day">
                                     <div class="w-1/2">
-                                        <span x-html="k"></span>
+                                        <span x-html="`${k}☆`"></span>
                                         <span x-html="prettyDate(star.get_star_ts)"></span>
                                     </div>
                                 </template>
