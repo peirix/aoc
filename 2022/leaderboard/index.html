@@ -13,11 +13,11 @@
         <ul x-data="list" class="m-auto w-1/2 pt-20">
             <template x-for="(p,i) in people" :key="p.id">
                 <li>
-                    <div class="flex" @click="open = open === i ? -1 : i">
+                    <div class="flex" @click="p.open = !p.open">
                         <span x-html="`${p.local_score}:`" class="w-12"></span>
                         <span x-html="p.name"></span>
                     </div>
-                    <div x-show="open === i">
+                    <div x-show="p.open">
                         <template x-for="(day, j) in p.completion_day_level">
                             <div class="flex">
                                 <div class="w-12" x-html="j"></div>
@@ -37,13 +37,18 @@
             document.addEventListener('alpine:init', () => {
                 Alpine.data('list', () => ({
                     people: [],
-                    open: -1,
                     init() {
                         fetch('server.php')
                             .then(res => res.json())
                             .then(res => {
                                 this.people = Object.values(res.members).sort((a, b) => {
                                     return a.local_score > b.local_score ? -1 : 1;
+                                });
+                                this.people = this.people.map(p => {
+                                    return {
+                                        ...p,
+                                        open: false
+                                    };
                                 });
                                 console.log(this.people);
                             });
