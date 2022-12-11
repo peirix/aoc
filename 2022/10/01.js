@@ -15,13 +15,13 @@ let x = 1;
 let tot = 0;
 let crt = [];
 let crtX = 0;
-console.log('........................................');
+console.log(' ');
 
 addCycle = () => {
     if (x === crtX || x - 1 === crtX || x + 1 === crtX) {
-        crt.push('#');
+        crt.push('█');
     } else {
-        crt.push('.');
+        crt.push(' ');
     }
     cycle++;
     crtX++;
@@ -45,5 +45,5 @@ input.forEach(i => {
         x += i.num;
     }
 });
-console.log('........................................');
+console.log(' ');
 console.log('Part1:', tot);
