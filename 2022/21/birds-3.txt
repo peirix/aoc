@@ -1,0 +1,765 @@
+Abdim's stork
+ʻAkekeʻe
+Andean coot
+Andean duck
+Andean goose
+Andean guan
+Andean gull
+Andean swift
+Andean teal
+Anhinga
+ʻApapane
+Archer's lark
+Arctic tern
+Arnot's chat
+Ashy thrush
+Ashy tit
+Asian koel
+Auckland rail
+Auckland shag
+Auckland teal
+Austral rail
+Austral thrush
+Aztec rail
+Aztec thrush
+Baer's pochard
+Baikal teal
+Baillon's crake
+Baird's junco
+Baird's sparrow
+Baird's trogon
+Bald eagle
+Bald parrot
+Banded stilt
+Banded wren
+Banggai crow
+Bank myna
+Barking owl
+Barlow's lark
+Barn swallow
+Barred dove
+Barred hawk
+Barred owl
+Barred rail
+Bassian thrush
+Bat falcon
+Bateleur
+Bates's swift
+Baudo guan
+Bay coucal
+Bearded guan
+Beck's petrel
+Beesley's lark
+Belcher's gull
+Bell miner
+Bell's sparrow
+Bell's vireo
+Bernier's teal
+Bewick's wren
+Biak coucal
+Biak monarch
+Biak scops owl
+Biak scrubfowl
+Biak whistler
+Bicknell's thrush
+†Bishop's oo
+Bismarck crow
+Black antbird
+Black antshrike
+Black baza
+Black bishop
+Black bittern
+Black boubou
+Black bulbul
+Black bushbird
+Black catbird
+Black coucal
+Black cuckoo
+Black drongo
+Black eagle
+Black falcon
+Black fantail
+Black grasswren
+Black harrier
+Black heron
+Black hornbill
+Black inca
+Black lory
+Black magpie
+†Black mamo
+Black monarch
+Black noddy
+Black nunbird
+Black partridge
+Black petrel
+Black redstart
+Black robin
+Black saw-wing
+Black scoter
+Black shama
+Black siskin
+Black skimmer
+Black sunbird
+Black turnstone
+Black vulture
+Black wheatear
+Blackish rail
+Blacksmith thrush
+Blanford's lark
+Blood pheasant
+Blue bunting
+Blue coua
+Blue dacnis
+Blue grosbeak
+Blue ground dove
+Blue korhaan
+Blue noddy
+Blue nuthatch
+Blue petrel
+Blue pitta
+Blue quail
+Blue rock thrush
+Blue swallow
+Blue vanga
+Blue waxbill
+Blyth's frogmouth
+Blyth's hornbill
+Blyth's pipit
+Bobolink
+†Bonin thrush
+Boreal owl
+Botha's lark
+Boucard's wren
+Boulder chat
+Bounty shag
+Bradfield's swift
+Brass's friarbird
+Braun's bushshrike
+Bridled tern
+Brown babbler
+Brown barbet
+Brown booby
+Brown bullfinch
+Brown creeper
+Brown dipper
+Brown falcon
+Brown fantail
+Brown fish owl
+Brown goshawk
+Brown hawk-owl
+Brown inca
+Brown lory
+Brown mesite
+Brown nightjar
+Brown noddy
+Brown nunlet
+Brown quail
+Brown rock chat
+Brown songlark
+Brown thornbill
+Brown thrasher
+Brown trembler
+Brown twinspot
+Brown wood owl
+Brown wood rail
+Brush cuckoo
+Bufflehead
+Buru thrush
+Bush blackcap
+Cabot's tern
+Cackling goose
+Cactus wren
+Campbell shag
+Campbell teal
+Canvasback
+Canyon wren
+Cape crow
+Cape teal
+Carrion crow
+Caspian gull
+Caspian tern
+Caspian tit
+Cassin's finch
+Cauca guan
+Chaco owl
+Chapman's swift
+Chatham rail
+Chatham shag
+Chatham snipe
+Cheer pheasant
+Chestnut rail
+Chestnut teal
+Chestnut thrush
+Chilean hawk
+Chilean skua
+Chimney swift
+Chowchilla
+Chuuk monarch
+Cirl bunting
+Citril finch
+Clapper rail
+Clarión wren
+Cliff swallow
+Cockatiel
+Cocoa thrush
+Cocos finch
+Coleto
+Common crane
+Common gull
+Common loon
+Common murre
+Common snipe
+Common swift
+Common tern
+Cook's petrel
+Cooper's hawk
+Corn bunting
+Couch's kingbird
+Crab-plover
+Crag chilia
+Crane hawk
+Crested duck
+Crested guan
+Crested jay
+Crested lark
+Crested owl
+Crimson chat
+Crimson finch
+Crozet shag
+Cuban crow
+Cuban kite
+Cuckoo-finch
+Cut-throat finch
+Dagua thrush
+Dapple-throat
+Dark batis
+Dark pewee
+Darwin's rhea
+Desert finch
+Desert lark
+Desert owl
+Diamond dove
+Diard's trogon
+Dickcissel
+Dohrn's warbler
+Dolphin gull
+Drab swiftlet
+Drab whistler
+Dune lark
+Dupont's lark
+Dusky grouse
+Dusky lark
+Dusky thrush
+Dusky tit
+Dwarf bittern
+Dwarf cuckoo
+Dwarf fruit dove
+Dwarf longbill
+Dwarf vireo
+Eared dove
+Eastern phoebe
+Emin's shrike
+Fairy prion
+Fairy tern
+Fearful owl
+Fea's petrel
+Field sparrow
+Finn's weaver
+Finsch's bulbul
+Finsch's wheatear
+Firethroat
+Flamecrest
+Flappet lark
+Flores crow
+Flutist wren
+Forest thrush
+Forster's tern
+Fox kestrel
+Fox's weaver
+Foxy lark
+Franklin's gull
+Freckled duck
+Friedmann's lark
+Fruithunter
+Fuegian snipe
+Fulmar prion
+Fulvous owl
+Fulvous wren
+Garganey
+Geomalia
+Giant antshrike
+Giant babax
+Giant coua
+Giant cowbird
+Giant ibis
+Giant kingbird
+Giant nuthatch
+Giant pitta
+Giant scops owl
+Giant sunbird
+Giant swiftlet
+Giant weaver
+Giant wood rail
+Gibberbird
+Gillett's lark
+Glaucous gull
+Goldenface
+Gough moorhen
+Gouldian finch
+Gould's frogmouth
+Gould's petrel
+Gould's shortwing
+Grandala
+Grant's bluebill
+Gray catbird
+Gray kingbird
+Gray thrasher
+Gray vireo
+Great antshrike
+Great argus
+Great barbet
+Great black hawk
+Great bustard
+Great egret
+Great grey owl
+Great grey shrike
+Great hornbill
+Great iora
+Great myna
+Great potoo
+Great shortwing
+Great sparrow
+Great xenops
+Greater rhea
+Greater scaup
+Green barbet
+Green broadbill
+Green catbird
+Green cochoa
+Green crombec
+Green figbird
+Green hermit
+Green heron
+Green hylia
+Green ibis
+Green iora
+Green jery
+Green longtail
+Green mango
+Green peafowl
+Green pheasant
+Green thorntail
+Green warbler
+Grey antbird
+Grey antwren
+Grey bunting
+Grey bush chat
+Grey falcon
+Grey fantail
+Grey friarbird
+Grey goshawk
+Grey grasswren
+Grey ground thrush
+Grey heron
+Grey kestrel
+Grey longbill
+Grey nightjar
+Grey noddy
+Grey parrot
+Grey partridge
+Grey petrel
+Grey plover
+Grey sibia
+Grey sunbird
+Grey thornbill
+Grey treepie
+Grey trembler
+Grey wagtail
+Grey waxbill
+Grey whistler
+Greylag goose
+Gundlach's hawk
+Gyrfalcon
+Hall's babbler
+Hamerkop
+Happy wren
+Harris's hawk
+Hartlaub's duck
+Hartlaub's gull
+Hauxwell's thrush
+†Hawaiʻi ʻōʻō
+Hawkins's rail
+Hazel grouse
+Heermann's gull
+Hen harrier
+Henst's goshawk
+Hermit thrush
+Highland guan
+Hill partridge
+Hill pigeon
+Hill prinia
+Hill swallow
+Hooded crane
+Hooded crow
+Hooded grebe
+Horned coot
+Horned grebe
+Horned guan
+Horned lark
+Horus swift
+House crow
+House finch
+House swift
+House wren
+Huon catbird
+Ibisbill
+ʻIʻiwi
+Inca dove
+Inca jay
+Inca tern
+Inca wren
+Island thrush
+Isthmian wren
+Izu thrush
+Jabiru
+Jet antbird
+Junin grebe
+Kakapo
+Kandt's waxbill
+Karoo chat
+Karoo lark
+Karoo thrush
+†Kauaʻi ʻōʻō
+Kemp's longbill
+Kessler's thrush
+King eider
+King penguin
+King quail
+King vulture
+Klaas's cuckoo
+Kosrae crake
+Lake duck
+Lark bunting
+Lark sparrow
+Latham's snipe
+Laughing dove
+Laughing gull
+Laughing owl
+Lava gull
+Laysan duck
+Laysan finch
+Laysan rail
+Lear's macaw
+Least auklet
+Least bittern
+Least nighthawk
+Least poorwill
+Least seedsnipe
+Lemon dove
+Lesser scaup
+Lewin's rail
+Little auk
+Little crake
+Little crow
+Little grebe
+Little gull
+Little owl
+Little stint
+Little swift
+Little tern
+Locust finch
+Long-toed stint
+Maccoa duck
+Madanga
+Maghreb lark
+Maghreb owl
+Magpie goose
+Magpie shrike
+Magpie-lark
+Malleefowl
+Maned owl
+Mantled hawk
+Marail guan
+Marbled duck
+Marsh antwren
+Marsh babbler
+Marsh grassbird
+Marsh tchagra
+Marsh warbler
+Masked duck
+Masked finch
+Masked lark
+Masked shrike
+Mayr's swiftlet
+McKay's bunting
+Mees's nightjar
+Meller's duck
+Milky stork
+Millerbird
+Miombo tit
+Mistle thrush
+Moorland chat
+Morepork
+Morningbird
+Mottled duck
+Mottled owl
+Mottled swift
+Mountain shrike
+Mountain thrush
+Mountain wren
+Mourning dove
+Mrs. Gould's sunbird
+Mute swan
+Naumann's thrush
+Nava's wren
+Neddicky
+Night parrot
+Nihoa finch
+Noble snipe
+Northern shrike
+Nyanza swift
+†Oʻahu ʻōʻō
+Oak titmouse
+Obbia lark
+Olrog's gull
+Ovenbird
+Owston's tit
+Painted finch
+Painted stork
+Palau owl
+Pale thrush
+Palila
+Pallas's gull
+Pallid dove
+Pallid swift
+Palm warbler
+Pampa finch
+Pardusco
+Pauraque
+Pied bush chat
+Pied goshawk
+Pied harrier
+Pied heron
+Pied monarch
+Pied myna
+Pied plover
+Pied puffbird
+Pied starling
+Pied triller
+Pied wheatear
+Pilotbird
+Pink pigeon
+Pink robin
+Pinyon jay
+Piping crow
+Pipipi
+Plain bush-hen
+Plain greenbul
+Plain nightjar
+Plain pigeon
+Plain prinia
+Plain softtail
+Plain sunbird
+Plain thornbird
+Plain xenops
+†Poʻouli
+Preuss's weaver
+Puaiohi
+Puna snipe
+Puna teal
+Purple finch
+Purplish jay
+Quailfinch
+Rail-babbler
+Rain quail
+Rand's warbler
+Raso lark
+Razorbill
+Red crossbill
+Red fody
+Red goshawk
+Red lory
+Red siskin
+Red spurfowl
+Red warbler
+Relict gull
+†Réunion owl
+†Réunion rail
+Ridgway's hawk
+Ridgway's rail
+Rifleman
+Ring ouzel
+Ringed teal
+River tern
+Rock bunting
+Rock kestrel
+Rock martin
+Rock parrot
+Rock partridge
+Rock sparrow
+Rockrunner
+Rockwarbler
+Roll's partridge
+Rothschild's swift
+Rouget's rail
+Royal tern
+Ruaha chat
+Ruddy crake
+Ruddy duck
+Ruffed grouse
+Rufous owl
+Rufous wren
+Saffron finch
+Salvin's prion
+San Blas jay
+Sand martin
+Sand partridge
+Sanderling
+Sandhill crane
+Sandwich tern
+Sapayoa
+Sarus crane
+Saunders's gull
+Saunders's tern
+Scaled dove
+Scaly thrush
+Scarce swift
+Scarlet finch
+Schwartz's antthrush
+Sclater's lark
+Sclater's wren
+Scrub blackbird
+Scrub greenlet
+Sedge wren
+Seram thrush
+Serra finch
+Shy heathwren
+Sichuan jay
+Sichuan thrush
+Sichuan tit
+Silver gull
+Silver teal
+Silverbird
+Sind sparrow
+Slaty finch
+Small ground finch
+Small tree finch
+Smith's longspur
+Snares snipe
+Snoring rail
+Snow bunting
+Snow partridge
+Snow petrel
+Snow pigeon
+Snowy owl
+Sombre tit
+Song parrot
+Song sparrow
+Sooty chat
+Sooty grouse
+Sooty gull
+Sooty swift
+Sooty tern
+Sooty thrush
+Souza's shrike
+Speckled rail
+Spix's macaw
+Spotless crake
+Spotted crake
+Spotted dove
+Spotted owl
+Spotted rail
+Spotted shag
+Spotted wren
+Spruce grouse
+Steller's jay
+Striped crake
+Striped owl
+Styan's bulbul
+Stygian owl
+Sultan tit
+Sunbittern
+Sunda teal
+Sunda thrush
+Surf scoter
+Swainson's hawk
+Swainson's thrush
+Swamp boubou
+Swamp harrier
+Swamp nightjar
+Swamp sparrow
+Swee waxbill
+Swift parrot
+Swinhoe's rail
+Swinhoe's snipe
+Sykes's lark
+Taita thrush
+Talaud rail
+Tawny owl
+Temminck's lark
+Temminck's stint
+Tepui swift
+Tepui wren
+Thamnornis
+Thekla's lark
+Tickell's thrush
+Tiger shrike
+Tiny hawk
+Tit hylia
+Todd's antwren
+Todd's nightjar
+Todd's sirystes
+Torrent duck
+Torrent-lark
+Tractrac chat
+Tree martin
+Tree pipit
+Tree swallow
+Tristan thrush
+Tufted duck
+Tufted jay
+Tundra swan
+Upland goose
+Ural owl
+Varied thrush
+Varied tit
+Várzea thrush
+Vega gull
+Violet crow
+Wallcreeper
+Ward's trogon
+Water rail
+Watercock
+Wattled crane
+Wattled guan
+Western grebe
+Western gull
+Weyns's weaver
+Whistling kite
+White hawk
+White stork
+White tern
+Whitehead
+White's thrush
+Whooper swan
+Whooping crane
+Wild turkey
+Wilkins's finch
+Williams's lark
+Willow tit
+Wilson's snipe
+Winter wren
+Wood pipit
+Wood warbler
+Woodchat shrike
+Woodford's rail
+Yap monarch
+Yellow chat
+Yellow rail
+Yellow tit
+Yellowhead
+Yemen thrush
+Yungas dove
+Yungas guan
+Zebra dove
+Zebra finch
