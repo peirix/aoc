@@ -37,18 +37,13 @@ for (let i = 1; i < valids.length; i++) {
 		i--;
 		continue;
 	}
-}
-if (!real) console.log(valids);
-valids.sort((a, b) => {
-	return a[0] - b[0];
-});
-for (let i = 1; i < valids.length; i++) {
 	if (valids[i][0] >= valids[i - 1][0] && valids[i][1] <= valids[i - 1][1]) {
 		valids.splice(i, 1);
 		i--;
 		continue;
 	}
 }
+if (!real) console.log(valids);
 const thisn = valids.reduce((com, val) => (com += val[1] - val[0] + 1), 0);
 console.log('2', thisn);
 console.log('time', performance.now() - startTime);
